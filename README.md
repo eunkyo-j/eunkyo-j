@@ -24,7 +24,7 @@
 - 전체 시스템 구조 설계 및 프론트엔드·백엔드 직접 구현
 - 사용자 로그인, 좌석 선택, 예약 및 취소 기능 포함
 - MySQL 기반의 데이터베이스와 앱 간 실시간 연동
-- 👉 [코드 보기](https://github.com/eunkyo-j/seat-reservation) *(링크는 실제 리포지토리로 수정해주세요)*
+- 👉 [자세히 보기](https://github.com/eunkyo-j/seat-reservation) *(링크는 실제 리포지토리로 수정해주세요)*
 
 ---
 
@@ -32,7 +32,7 @@
 - Python tkinter 기반의 GUI 게임 제작
 - 난이도 조절 기능을 통한 게임 흐름 제어 구현
 - 이벤트 루프와 간단한 물리 알고리즘 적용
-- 👉 [코드 보기](https://github.com/eunkyo-j/dodge-game)
+- 👉 [자세히 보기](https://github.com/eunkyo-j/dodge-game)
 
 ---
 
@@ -40,7 +40,7 @@
 - 인체 감지 및 적외선 센서를 이용한 정수기 자동화 시스템
 - 사용자 설정 시간에 맞춰 알람, 약 배출, 자동 급수 기능 포함
 - C++ 기반 아두이노 코드 설계 및 하드웨어 제어 경험
-- 👉 [코드 보기](https://github.com/eunkyo-j/-.git)
+- 👉 [자세히 보기](https://github.com/eunkyo-j/-.git)
 
 ---
 
