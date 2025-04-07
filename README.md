@@ -40,7 +40,7 @@
 - 인체 감지 및 적외선 센서를 이용한 정수기 자동화 시스템
 - 사용자 설정 시간에 맞춰 알람, 약 배출, 자동 급수 기능 포함
 - C++ 기반 아두이노 코드 설계 및 하드웨어 제어 경험
-- 👉 [코드 보기](https://github.com/eunkyo-j/smart-water)
+- 👉 [코드 보기](https://github.com/eunkyo-j/-.git)
 
 ---
 
