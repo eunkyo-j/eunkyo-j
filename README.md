@@ -55,8 +55,7 @@
 ## 📫 연락처
 
 - **GitHub:** [github.com/eunkyo-j](https://github.com/eunkyo-j)
-- **Email:** wjddmsry0917@gmail.com *(본인 이메일로 수정해주세요)*
-- **Blog:** [velog.io/@eunkyo-j](https://velog.io/@eunkyo-j) *(블로그 운영 중이면 링크 추가)*
+- **Email:** wjddmsry0917@gmail.com
 
 ---
 
