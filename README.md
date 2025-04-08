@@ -10,10 +10,9 @@
 
 ## 💻 기술 스택
 
-**Languages:** Kotlin, Python, C++, JavaScript  
-**Backend:** Flask, Android Studio  
+**Languages:** Kotlin, Python, C, C++, JavaScript, php, Android Studio
 **Database:** MySQL, Oracle  
-**Tools:** Git, GitHub, Figma, Arduino, Postman  
+**Tools:** Visual Studio Code, Android Studio, Eclipse
 **Concepts:** 백엔드 시스템 설계, DB 모델링, API 설계, 센서 연동
 
 ---
@@ -24,7 +23,7 @@
 - 전체 시스템 구조 설계 및 프론트엔드·백엔드 직접 구현
 - 사용자 로그인, 좌석 선택, 예약 및 취소 기능 포함
 - MySQL 기반의 데이터베이스와 앱 간 실시간 연동
-- 👉 [자세히 보기](https://github.com/eunkyo-j/seat-reservation) *(링크는 실제 리포지토리로 수정해주세요)*
+- 👉 [자세히 보기](https://github.com/eunkyo-j/seat-reservation)
 
 ---
 
