@@ -32,7 +32,7 @@
 - Python tkinter 기반의 GUI 게임 제작
 - 난이도 조절 기능을 통한 게임 흐름 제어 구현
 - 이벤트 루프와 간단한 물리 알고리즘 적용
-- 👉 [자세히 보기](https://github.com/eunkyo-j/dodge-game)
+- 👉 [자세히 보기](https://github.com/eunkyo-j/ball_game)
 
 ---
 
