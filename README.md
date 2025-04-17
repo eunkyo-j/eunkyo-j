@@ -19,13 +19,14 @@
 
 ## 🚀 대표 프로젝트
 
-### 🎫 좌석 예약 플랫폼 (Android, Kotlin, MySQL)
+<!--### 🎫 좌석 예약 플랫폼 (Android, Kotlin, MySQL)
 - 전체 시스템 구조 설계 및 프론트엔드·백엔드 직접 구현
 - 사용자 로그인, 좌석 선택, 예약 및 취소 기능 포함
 - MySQL 기반의 데이터베이스와 앱 간 실시간 연동
 - 👉 [자세히 보기](https://github.com/eunkyo-j/flying)
 
 ---
+-->
 
 ### 🎮 공 피하기 게임 (Python)
 
