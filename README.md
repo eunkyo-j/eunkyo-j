@@ -28,7 +28,7 @@
 ---
 -->
 
-## 🧠 PDF Markdown Viewer (FastAPI + React)  
+### 🧠 PDF Markdown Viewer (FastAPI + React)  
 - PDF 파일을 Markdown 형식으로 변환하는 풀스택 웹 데모 프로젝트  
 - FastAPI 백엔드와 React 프론트엔드로 구성하여 RESTful 통신 구현  
 - 실시간 파일 업로드 및 마크다운 변환 결과 시각화 기능 제공  
