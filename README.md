@@ -59,20 +59,22 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eunkyo-j)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🚀 대표 프로젝트
-### 📄 PDF Markdown Viewer (FastAPI + React)  
-- PDF 파일을 Markdown 형식으로 변환하는 풀스택 웹 데모 프로젝트  
-- FastAPI 백엔드와 React 프론트엔드로 구성하여 RESTful 통신 구현  
-- 실시간 파일 업로드 및 마크다운 변환 결과 시각화 기능 제공  
-- 크라우드웍스 인턴십 포트폴리오 용도로 설계
-- 👉 [자세히 보기](https://github.com/eunkyo-j/pdf-markdown-viewer)
+
+---
+
+### 📄 Document Q&A System (RAG 기반, FastAPI + React)
+- 업로드된 문서(PDF)에서 내용을 추출하고, 사용자의 질문에 응답하는 문서 기반 질의응답 시스템
+- FastAPI 백엔드와 React 프론트엔드로 구성하여 RESTful API 기반 통신 구현
+- LLM(Retrieval-Augmented Generation) 기술을 활용해 문맥에 맞는 자연어 응답 제공
+- 실시간 파일 업로드, 문서 임베딩, 사용자 질문 응답 결과 시각화 기능 제공
+- 👉 [자세히 보기](https://github.com/eunkyo-j/document_qa_rag)
 
 ---
 
 ### 📄 PDF Markdown Viewer (FastAPI + React)  
 - PDF 파일을 Markdown 형식으로 변환하는 풀스택 웹 데모 프로젝트  
 - FastAPI 백엔드와 React 프론트엔드로 구성하여 RESTful 통신 구현  
-- 실시간 파일 업로드 및 마크다운 변환 결과 시각화 기능 제공  
-- 크라우드웍스 인턴십 포트폴리오 용도로 설계
+- 실시간 파일 업로드 및 마크다운 변환 결과 시각화 기능 제공
 - 👉 [자세히 보기](https://github.com/eunkyo-j/pdf-markdown-viewer)
 
 ---
