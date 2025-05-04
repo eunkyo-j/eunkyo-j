@@ -1,4 +1,5 @@
 ## Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=venom&fontColor=E568E1&color=auto&height=300&section=header&text=Hi,%20I'm%20Eunkyo&fontSize=90)
 
 # 👋 안녕하세요, 백엔드 개발자 지망생 정은교입니다!
 
